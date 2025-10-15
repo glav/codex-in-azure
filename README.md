@@ -10,7 +10,7 @@ codex requires a config file located at:
 ```
 
 ## Config file contents
-To use with an Azure OpenAI model, you will need to do add the following config to the ```confiug.toml``` file:
+To use with an Azure OpenAI model, you will need to do add the following config to the ```config.toml``` file:
 
 ```
 model = "gpt-5-codex" # Change this to match your model -deployment name- (not the model name)
